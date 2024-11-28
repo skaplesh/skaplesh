@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skaplesh
 - 👀 I’m interested in Python , java with spring boot
-- 🌱 I’m currently learning C#, C++
+- 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on Financial crime security based apps 
 - 📫 Email ID : Shilpakplsh57@gmail.com
 
